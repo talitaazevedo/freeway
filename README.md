@@ -10,16 +10,9 @@
 ![imagem-jogo](./imagens/jogo-img.gif)
 
 
->Link do editor P5
+>Link do editor P5<br/>
 [P5-url]: https://editor.p5js.org/tnazevedo/sketches/VjeQ8bJJc
 
 
-## Meta
-
-Este é  um frame do jogo para demonstração.
-
-
-
-<iframe src="https://editor.p5js.org/tnazevedo/embed/VjeQ8bJJc"></iframe>
 
 
